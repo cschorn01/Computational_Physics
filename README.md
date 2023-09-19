@@ -2,10 +2,10 @@
 
 # RPi Pico LoRa Template
 
+[![By Chris Schorn](https://img.shields.io/badge/Author-Chris_Schorn-FFFFFF?style=for-the-badge)](https://github.com/cschorn01)
 [![Download Zip](https://img.shields.io/badge/Download_Zip-FFFFFF?style=for-the-badge)](https://github.com/cschorn01/Computational_Physics/archive/refs/heads/main.zip)
 <!-- ![Status](https://img.shields.io/badge/Status-Working-FFFFFF?style=for-the-badge) -->
 
-[![By Chris Schorn](https://img.shields.io/badge/Author-Chris_Schorn-FFFFFF?style=for-the-badge)](https://github.com/cschorn01)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
