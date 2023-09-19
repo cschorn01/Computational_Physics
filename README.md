@@ -7,11 +7,13 @@
 
 [![By Chris Schorn](https://img.shields.io/badge/Author-Chris_Schorn-FFFFFF?style=for-the-badge)](https://github.com/cschorn01)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-<!-- [![MIT License](https://img.shields.io/badge/License-MIT-A31B34?style=for-the-badge)](https://mit-license.org/)
-[![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)](https://cmake.org/)
-[![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://www.raspberrypi.com/products/raspberry-pi-pico/)
-[![Semtech LoRa](https://img.shields.io/badge/LoRa-1CAEED?style=for-the-badge)](https://www.semtech.com/lora)
-[![FreeRTOS](https://img.shields.io/badge/FreeRTOS-5CBA5B?style=for-the-badge)](https://www.freertos.org/) -->
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![vPython](https://img.shields.io/badge/vPython-%23ffffff.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+<!-- [![MIT License](https://img.shields.io/badge/License-MIT-A31B34?style=for-the-badge)](https://mit-license.org/) -->
 
 [![Description](https://img.shields.io/badge/Description-FFFFFF?style=for-the-badge)](https://github.com/cschorn01/Computational_Physics/tree/main#description)
 [![Functionality](https://img.shields.io/badge/Functionality-FFFFFF?style=for-the-badge)](https://github.com/cschorn01/Computational_Physics/tree/main#functionality)
@@ -26,20 +28,35 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cschorn01&layout=compact&theme=dark)](https://github.com/cschorn01/Lora_Pico_Driver) -->
 
 ## Description
-
+These files are portfolio projects from my Computational Physics class at [High Point Univeristy](https://www.highpoint.edu/physics/). Our main text we drew from was [Computational Modeling and Visualization with Python, by J. Wang](https://github.com/com-py/compy/tree/master). 
 
 ## Functionality
 
+Github displays .ipynb files natively, so to view these files simply open its page. They are a mixture of Python and Markdown creating accessible presentations for projects.
+
+[Numpy](https://numpy.org/), [MatPlotLib](https://matplotlib.org/), [SciPy](https://scipy.org/), [vPython](https://vpython.org/), and [Pandas](https://pandas.pydata.org/) are the libraries used.
 
 ## File Structure
 
+- 1D_Heat_Flow
+  - [Heat-Flow.ipynb](https://github.com/cschorn01/Computational_Physics/blob/main/1D_Heat_Flow/Heat-Flow.ipynb)
+- Ball_Chain_with_Non_Linearity
+  - [Ball-Chain-with-Non-Linearity.ipynb](https://github.com/cschorn01/Computational_Physics/blob/main/Ball_Chain_with_Non_Linearity/Ball-Chain-with-Non-Linearity.ipynb)
+- Fourier_Series_Tutorial
+  - [Fourier-Series-Tutorial.ipynb](https://github.com/cschorn01/Computational_Physics/blob/main/Fourier_Series_Tutorial/Fourier-Series-Tutorial.ipynb)
+- Jay_Wang_Problem
+  - [Jay-Wang-Problem.ipynb](https://github.com/cschorn01/Computational_Physics/blob/main/Jay_Wang_Problem/Jay-Wang-Problem.ipynb)
+- Lissajou_Figures
+  - [Lissajou-Figures.ipynb](https://github.com/cschorn01/Computational_Physics/blob/main/Lissajou_Figures/Lissajou-Figures.ipynb)
+- [ode.py](https://github.com/cschorn01/Computational_Physics/blob/main/ode.py)
 
 ## How To Use
 
+Since all of the files are .ipynb, you will need to [download](https://jupyter.org/install) Jupyter Notebook or JupyterLab. The first cell of each notebook includes the libraries used, mostly [Numpy](https://numpy.org/), [MatPlotLib](https://matplotlib.org/), [SciPy](https://scipy.org/), [vPython](https://vpython.org/), and [Pandas](https://pandas.pydata.org/), so you will need to also download those. Then you are free to run and edit them.
 
-## Fixed Issues
+<!-- ## Fixed Issues
 
-<!-- ![Error](https://img.shields.io/badge/Error-A31B34?style=for-the-badge) `arm-none-eabi-gcc: fatal error: cannot read spec file 'nosys.specs': No such file or directory`
+![Error](https://img.shields.io/badge/Error-A31B34?style=for-the-badge) `arm-none-eabi-gcc: fatal error: cannot read spec file 'nosys.specs': No such file or directory`
 
 ![Solution](https://img.shields.io/badge/Solution-5CBA5B?style=for-the-badge) Go to `/usr/bin/local/` delete all files beginning in `arm-none-eabi-` then reinstall the arm toolchain. -->
 
