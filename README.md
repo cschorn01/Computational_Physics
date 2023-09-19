@@ -12,7 +12,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![vPython](https://img.shields.io/badge/vPython-%23ffffff.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![vPython](https://img.shields.io/badge/vPython-FFFFFF?style=for-the-badge)
 <!-- [![MIT License](https://img.shields.io/badge/License-MIT-A31B34?style=for-the-badge)](https://mit-license.org/) -->
 
 [![Description](https://img.shields.io/badge/Description-FFFFFF?style=for-the-badge)](https://github.com/cschorn01/Computational_Physics/tree/main#description)
