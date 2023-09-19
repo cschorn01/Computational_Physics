@@ -2,7 +2,7 @@
 
 # RPi Pico LoRa Template
 
-[![Download Zip](https://img.shields.io/badge/Download_Zip-FFFFFF?style=for-the-badge)](https://github.com/new?template_name=Lora_Pico_Driver&template_owner=cschorn01)
+[![Download Zip](https://img.shields.io/badge/Download_Zip-FFFFFF?style=for-the-badge)](https://github.com/cschorn01/Computational_Physics/archive/refs/heads/main.zip)
 <!-- ![Status](https://img.shields.io/badge/Status-Working-FFFFFF?style=for-the-badge) -->
 
 [![By Chris Schorn](https://img.shields.io/badge/Author-Chris_Schorn-FFFFFF?style=for-the-badge)](https://github.com/cschorn01)
