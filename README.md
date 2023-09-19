@@ -2,8 +2,8 @@
 
 # RPi Pico LoRa Template
 
-[![Clone Repository Template](https://img.shields.io/badge/Clone_Repository_Template-FFFFFF?style=for-the-badge)](https://github.com/new?template_name=Lora_Pico_Driver&template_owner=cschorn01)
-![Status](https://img.shields.io/badge/Status-usb_not_working-FFFFFF?style=for-the-badge)
+[![Download Zip](https://img.shields.io/badge/Download_Zip-FFFFFF?style=for-the-badge)](https://github.com/new?template_name=Lora_Pico_Driver&template_owner=cschorn01)
+<!-- ![Status](https://img.shields.io/badge/Status-Working-FFFFFF?style=for-the-badge) -->
 
 [![By Chris Schorn](https://img.shields.io/badge/Author-Chris_Schorn-FFFFFF?style=for-the-badge)](https://github.com/cschorn01)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
