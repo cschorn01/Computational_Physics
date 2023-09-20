@@ -19,7 +19,7 @@
 [![Functionality](https://img.shields.io/badge/Functionality-FFFFFF?style=for-the-badge)](https://github.com/cschorn01/Computational_Physics/tree/main#functionality)
 [![File Structure](https://img.shields.io/badge/file_structure-FFFFFF?style=for-the-badge)](https://github.com/cschorn01/Computational_Physics/tree/main#file-structure)
 [![How to Use](https://img.shields.io/badge/how_to_use-FFFFFF?style=for-the-badge)](https://github.com/cschorn01/Computational_Physics/tree/main#how-to-use)
-[![Fixed Issues](https://img.shields.io/badge/fixed_issues-FFFFFF?style=for-the-badge)](https://github.com/cschorn01/Computational_Physics/blob/main/README.md#fixed-issues)
+<!-- [![Fixed Issues](https://img.shields.io/badge/fixed_issues-FFFFFF?style=for-the-badge)](https://github.com/cschorn01/Computational_Physics/blob/main/README.md#fixed-issues) -->
 
 [![Stargazers repo roster for @cschorn01/Computational_Physics](https://reporoster.com/stars/cschorn01/Computational_Physics)](https://github.com/cschorn01/Computational_Physics/stargazers)
 
