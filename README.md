@@ -3,7 +3,7 @@
 # RPi Pico LoRa Template
 
 [![By Chris Schorn](https://img.shields.io/badge/Author-Chris_Schorn-FFFFFF?style=for-the-badge)](https://github.com/cschorn01)
-[![Download Zip](https://img.shields.io/badge/Download_Zip-FFFFFF?style=for-the-badge)](https://github.com/cschorn01/Computational_Physics/archive/refs/heads/main.zip)
+[![Download Repository Zip](https://img.shields.io/badge/Download_Reposiory_Zip-FFFFFF?style=for-the-badge)](https://github.com/cschorn01/Computational_Physics/archive/refs/heads/main.zip)
 <!-- ![Status](https://img.shields.io/badge/Status-Working-FFFFFF?style=for-the-badge) -->
 
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
