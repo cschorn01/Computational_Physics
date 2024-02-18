@@ -21,7 +21,7 @@
 [![How to Use](https://img.shields.io/badge/how_to_use-FFFFFF?style=for-the-badge)](https://github.com/cschorn01/Computational_Physics/tree/main#how-to-use)
 <!-- [![Fixed Issues](https://img.shields.io/badge/fixed_issues-FFFFFF?style=for-the-badge)](https://github.com/cschorn01/Computational_Physics/blob/main/README.md#fixed-issues) -->
 
-[![Stargazers repo roster for @cschorn01/Computational_Physics](https://reporoster.com/stars/cschorn01/Computational_Physics)](https://github.com/cschorn01/Computational_Physics/stargazers)
+<!-- [![Stargazers repo roster for @cschorn01/Computational_Physics](https://reporoster.com/stars/cschorn01/Computational_Physics)](https://github.com/cschorn01/Computational_Physics/stargazers) -->
 
 <!-- ![GitHub Contributors Image](https://contrib.rocks/image?repo=cschorn01/rpi_pico_lora_template) -->
 
